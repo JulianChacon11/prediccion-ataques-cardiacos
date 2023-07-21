@@ -11,5 +11,7 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 Gaussian Naive Bayes, DecisionTreeClassifier, RandomForestClassifier, SVC
 # Enlaces
 Codigo : https://colab.research.google.com/drive/1Ty94j1rzXZuqhemBbHWwSimGuqttf3Xc?usp=sharing#scrollTo=l0mL7YS6JnbS
+
 Video:
+
 Diapositivas: https://gamma.app/docs/Proyecto-de-Machine-Learning-para-detectar-la-probabilidad-de-un--chz7v61bxqjxwji?mode=doc
