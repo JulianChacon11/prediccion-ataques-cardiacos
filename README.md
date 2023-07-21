@@ -9,7 +9,7 @@ Predecir la probabilidad de sufrir un ataque cardíaco
 # Dataset
 https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 # Modelos
-Gaussian Naive Bayes, DecisionTreeClassifier, RandomForestClassifier, SVC
+Gaussian Naive Bayes, DecisionTreeClassifier, RandomForestClassifier, SVC, Agglomerative Clustering y K-means
 # Enlaces
 Codigo : https://colab.research.google.com/drive/1Ty94j1rzXZuqhemBbHWwSimGuqttf3Xc?usp=sharing#scrollTo=l0mL7YS6JnbS
 
