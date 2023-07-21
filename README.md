@@ -1,4 +1,4 @@
-# Predicción de ataques cardíacos
+# Predictor de ataques cardíacos
  Proyecto IA Prediccion de ataques cardiacos
 ![BannerProyecto](https://github.com/JulianChacon11/prediccion-ataques-cardiacos/assets/82472712/d6c0bdf0-85cd-4f4f-8bd4-d74be776b50c)
 # Autores
