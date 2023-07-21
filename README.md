@@ -11,8 +11,8 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 # Modelos
 Gaussian Naive Bayes, DecisionTreeClassifier, RandomForestClassifier, SVC, Agglomerative Clustering y K-means
 # Enlaces
-Codigo : https://colab.research.google.com/drive/1Ty94j1rzXZuqhemBbHWwSimGuqttf3Xc?usp=sharing#scrollTo=l0mL7YS6JnbS
+Codigo : https://colab.research.google.com/drive/1qQ-CrF74A0MYrwhFxTzP-eEYCFQMlW3c?usp=sharing
 
 Video: https://www.youtube.com/watch?v=Zw99iqBKnLQ&ab_channel=JulianChacon
 
-Diapositivas: https://gamma.app/docs/Proyecto-de-Machine-Learning-para-detectar-la-probabilidad-de-un--chz7v61bxqjxwji?mode=doc
+Diapositivas: https://gamma.app/docs/Proyecto-de-machine-learning-para-detectar-probabilidad-de-un-par-hrnqww1ylov92ev?mode=doc#card-lipa59nui2149gq
