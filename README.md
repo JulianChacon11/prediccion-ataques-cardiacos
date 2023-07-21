@@ -13,6 +13,6 @@ Gaussian Naive Bayes, DecisionTreeClassifier, RandomForestClassifier, SVC, Agglo
 # Enlaces
 Codigo : https://colab.research.google.com/drive/1Ty94j1rzXZuqhemBbHWwSimGuqttf3Xc?usp=sharing#scrollTo=l0mL7YS6JnbS
 
-Video:
+Video: https://www.youtube.com/watch?v=Zw99iqBKnLQ&ab_channel=JulianChacon
 
 Diapositivas: https://gamma.app/docs/Proyecto-de-Machine-Learning-para-detectar-la-probabilidad-de-un--chz7v61bxqjxwji?mode=doc
